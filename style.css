@@ -9,19 +9,19 @@ body{
 
 @font-face{
     font-family: "Gilroy-Light";
-    src: url("/docs/fonts/Gilroy/Gilroy-Light.woff") format("opentype");
+    src: url("../../fonts/Gilroy/Gilroy-Light.woff") format("opentype");
 
    
 }
 
 @font-face{
     font-family: "Gilroy-medium";
-    src: url("/docs/fonts/Gilroy/Gilroy-Medium.woff") format("opentype");
+    src: url("../../fonts/Gilroy/Gilroy-Medium.woff") format("opentype");
 }
 
 @font-face{
     font-family: "Gilroy-bold";
-    src: url("/docs/fonts/Gilroy/Gilroy-ExtraBold.woff") format("opentype");
+    src: url("../../docs/fonts/Gilroy/Gilroy-ExtraBold.woff") format("opentype");
 }
 
 .container{
